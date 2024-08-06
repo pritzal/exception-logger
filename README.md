@@ -26,8 +26,8 @@ from exception_logger import ExceptionLogger
 logger = ExceptionLogger(
     db_host='localhost',
     db_user='root',
-    db_password='Aayush187@',
-    db_name='flask_logging_db'
+    db_password='your_db_password',
+    db_name='your_db_name'
 )
 
 # Use the logger to log exceptions
