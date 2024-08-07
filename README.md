@@ -2,7 +2,7 @@
 
 The Exception Logger is a Python package designed to simplify logging of exceptions in any application. It seamlessly integrates with your existing codebase to log errors and exceptions to a MySQL database, providing a centralized and structured approach to error tracking.
 
-Features
+# Features
 
 1.Easy Integration: Integrate with your application without modifying the backend code.
 
@@ -12,12 +12,12 @@ Features
 
 4.Simple Setup: Quick and straightforward setup process.
 
-Installation
+# Installation
 To install the package, use pip:
 
 " pip install exception-logger "
 
-Usage
+# Usage
 Here's a basic example of how to use the Exception Logger in your application:
 
 from exception_logger import ExceptionLogger
@@ -44,10 +44,10 @@ db_user: The username to connect to your MySQL database.
 db_password: The password to connect to your MySQL database.
 db_name: The name of your MySQL database.
 
-Contributing
+# Contributing
 We welcome contributions! If you would like to contribute, please fork the repository and submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Issues
