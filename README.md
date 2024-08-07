@@ -5,8 +5,11 @@ The Exception Logger is a Python package designed to simplify logging of excepti
 Features
 
 1.Easy Integration: Integrate with your application without modifying the backend code.
+
 2.Centralized Logging: Store all exceptions in a MySQL database for easy access and analysis.
+
 3.Customizable: Configure the logger to suit your application's needs.
+
 4.Simple Setup: Quick and straightforward setup process.
 
 Installation
@@ -43,6 +46,7 @@ db_host: The hostname of your MySQL database.
 db_user: The username to connect to your MySQL database.
 db_password: The password to connect to your MySQL database.
 db_name: The name of your MySQL database.
+
 Contributing
 We welcome contributions! If you would like to contribute, please fork the repository and submit a pull request.
 
