@@ -20,8 +20,6 @@ To install the package, use pip:
 Usage
 Here's a basic example of how to use the Exception Logger in your application:
 
-python
-Copy code
 from exception_logger import ExceptionLogger
 
 # Initialize the logger with your MySQL credentials
