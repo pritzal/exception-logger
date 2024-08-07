@@ -1,4 +1,4 @@
-Exception Logger
+# Exception Logger
 
 The Exception Logger is a Python package designed to simplify logging of exceptions in any application. It seamlessly integrates with your existing codebase to log errors and exceptions to a MySQL database, providing a centralized and structured approach to error tracking.
 
