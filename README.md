@@ -15,9 +15,8 @@ Features
 Installation
 To install the package, use pip:
 
-bash
-Copy code
-pip install exception-logger
+" pip install exception-logger "
+
 Usage
 Here's a basic example of how to use the Exception Logger in your application:
 
